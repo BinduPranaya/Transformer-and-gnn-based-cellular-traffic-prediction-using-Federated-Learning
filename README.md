@@ -10,6 +10,12 @@
 
 ---
 
+## 🚀 Run the Project in Google Colab
+
+Click the button below to open the complete project notebook in Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VSZNCkJWhPxQhuK0slLLu3quHgZh1rgC)
+
 ## 📌 Overview
 
 This project focuses on **cellular Internet traffic prediction** using Deep Learning, Federated Learning, and Graph Neural Networks.
@@ -23,12 +29,6 @@ The methodology is adapted to the **Telecom Italia Milan Telecommunications Data
 The project is developed progressively as:
 
 ```text
-## 🚀 Run the Project in Google Colab
-
-Click the button below to open the project notebook directly in Google Colab.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPOSITORY/blob/main/notebooks/cellular_traffic_prediction.ipynb)
-
 
 
 Centralized LSTM
